@@ -127,7 +127,7 @@
         UIColor* stickGradiantColor = [fillColor colorWithAlphaComponent:0.309];
         UIColor* bottomCircle = [UIColor colorWithRed: 0.359 green: 0.359 blue: 0.359 alpha: 1];
         UIColor* fillColor2 = [UIColor colorWithRed: 0.5 green: 0.5 blue: 0.5 alpha: 1];
-        UIColor* color9 = [UIColor colorWithRed: 0.001 green: 0.001 blue: 0.001 alpha: 0.511];
+        UIColor* color9 = [UIColor colorWithRed: 0.001 green: 0.001 blue: 0.001 alpha: 0.111];
         
         //// Gradient Declarations
         /*NSArray* buttonGradientColors = [NSArray arrayWithObjects:
